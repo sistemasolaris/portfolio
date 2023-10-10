@@ -2637,3 +2637,20 @@ input, select, textarea {
 				}
 
 	}
+
+/* My Additions */
+
+.project-thumbnail {
+	margin: 4px;
+}
+
+.description {
+	padding: 0px 16px;
+	font-size: 1rem;
+	line-height: 1.2;
+}
+
+.item header a {
+	padding: 2px 20px;
+	margin: 8px;
+}
